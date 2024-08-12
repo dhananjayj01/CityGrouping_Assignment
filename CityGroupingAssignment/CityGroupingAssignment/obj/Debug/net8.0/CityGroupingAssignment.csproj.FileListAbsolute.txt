@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\CityGroupingAssignment\CityGroupingAssignment\bin\Debug\net8.0\CityGroupingAssignment.exe
+C:\Users\Admin\source\repos\CityGroupingAssignment\CityGroupingAssignment\bin\Debug\net8.0\CityGroupingAssignment.deps.json
+C:\Users\Admin\source\repos\CityGroupingAssignment\CityGroupingAssignment\bin\Debug\net8.0\CityGroupingAssignment.runtimeconfig.json
+C:\Users\Admin\source\repos\CityGroupingAssignment\CityGroupingAssignment\bin\Debug\net8.0\CityGroupingAssignment.dll
+C:\Users\Admin\source\repos\CityGroupingAssignment\CityGroupingAssignment\bin\Debug\net8.0\CityGroupingAssignment.pdb
+C:\Users\Admin\source\repos\CityGroupingAssignment\CityGroupingAssignment\obj\Debug\net8.0\CityGroupingAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\CityGroupingAssignment\CityGroupingAssignment\obj\Debug\net8.0\CityGroupingAssignment.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CityGroupingAssignment\CityGroupingAssignment\obj\Debug\net8.0\CityGroupingAssignment.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CityGroupingAssignment\CityGroupingAssignment\obj\Debug\net8.0\CityGroupingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CityGroupingAssignment\CityGroupingAssignment\obj\Debug\net8.0\CityGroupingAssignment.dll
+C:\Users\Admin\source\repos\CityGroupingAssignment\CityGroupingAssignment\obj\Debug\net8.0\refint\CityGroupingAssignment.dll
+C:\Users\Admin\source\repos\CityGroupingAssignment\CityGroupingAssignment\obj\Debug\net8.0\CityGroupingAssignment.pdb
+C:\Users\Admin\source\repos\CityGroupingAssignment\CityGroupingAssignment\obj\Debug\net8.0\CityGroupingAssignment.genruntimeconfig.cache
+C:\Users\Admin\source\repos\CityGroupingAssignment\CityGroupingAssignment\obj\Debug\net8.0\ref\CityGroupingAssignment.dll
